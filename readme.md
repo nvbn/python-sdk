@@ -1,3 +1,5 @@
+Version created only for work with [specific django-socialregistration] (https://github.com/nvbn/django-socialregistration/) !
+
 Facebook Python SDK
 ====
 
